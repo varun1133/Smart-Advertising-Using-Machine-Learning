@@ -93,11 +93,3 @@ A 25-year-old male user interested in tech clicks on several smartphone ads. The
 
 **VARUN GOWDA H S**
 varungowda1103@gmail.com
-
-```
-
----
-
-Let me know if you’d like this tailored to your specific implementation (Flask + MySQL + TF-IDF + user feedback), and I can add sections for actual database schema, example queries, or screenshots.
-```
-# Smart-Advertising-Using-Machine-Learning
